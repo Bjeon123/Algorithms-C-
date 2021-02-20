@@ -1,6 +1,6 @@
 /*******************************************************************************
  * Name        : rbtree.h
- * Author      : Byung Jeon & Anthony Grillo III
+ * Author      : Samuel Jeon
  * Version     : 1.0
  * Date        : 11/20/2020
  * Description : Implementation of red-black tree.
